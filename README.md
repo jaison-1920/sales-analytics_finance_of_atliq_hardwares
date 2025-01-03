@@ -20,6 +20,7 @@ The reports play a vital role in determining optimal customer discounts, facilit
 **Project Objectives**:
 
 **Profit and Loss (P&L) Reporting**: Created detailed P&L reports segmented by [fiscal years](https://github.com/jaison-1920/sales-analytics_finance_of_atliq_hardwares/blob/main/P%26L%20Statement%20By%20Fiscal%20Years.pdf) and [fiscal months](https://github.com/jaison-1920/sales-analytics_finance_of_atliq_hardwares/blob/main/P%26L%20Statement%20By%20Fiscal%20Months.pdf).
+
 **Market-Specific P&L Reports**: Generated P&L reports categorized by different [market](https://github.com/jaison-1920/sales-analytics_finance_of_atliq_hardwares/blob/main/P%26L%20Statement%20By%20Markets.pdf) segments.
 
 **Purpose of Finance Analytics**:To evaluate financial performance, support informed decision-making, and enhance communication with stakeholders.
