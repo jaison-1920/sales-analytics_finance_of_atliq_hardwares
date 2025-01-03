@@ -10,8 +10,10 @@
 
 **Purpose of Sales Analytics**:
 To empower businesses with tools to monitor, assess, and enhance their sales activities and outcomes effectively.
+
 **Importance of Sales Data Analysis**:
 Sales data analysis is crucial for uncovering trends, monitoring key performance indicators (KPIs), and driving strategic decision-making.
+
 **Role of Reports**:
 The reports play a vital role in determining optimal customer discounts, facilitating negotiations, and identifying potential expansion opportunities in emerging markets.
 
