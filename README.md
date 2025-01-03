@@ -5,6 +5,7 @@
 ### Project Objectives:
 
 **Customer Performance Analysis**: Developed a comprehensive [report](https://github.com/jaison-1920/sales-analytics_finance_of_atliq_hardwares/blob/main/customer_performance_report.pdf) to evaluate customer performance metrics.
+
 **Market Performance Assessment**: Conducted an in-depth analysis comparing [market performance](https://github.com/jaison-1920/sales-analytics_finance_of_atliq_hardwares/blob/main/market_performance_vs_target.pdf) against established sales targets.
 
 **Purpose of Sales Analytics**:
